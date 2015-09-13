@@ -1,5 +1,4 @@
-# Brandon Gomes
-## Software Programmer
+# Brandon Gomes — Software Engineer
 
 ### Languages:
 * C/C++
