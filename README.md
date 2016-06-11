@@ -1,11 +1,8 @@
 # Brandon Gomes — Software Engineer
 
 ### Languages:
+* Haskell
 * C/C++
-* Objective-C
 * Java
 * Python
-* Ruby
-* Javascript
-* HTML/CSS
 
