@@ -4,5 +4,5 @@
 
 _Particle Physicist / Software Engineer_
 
-### [bhgomes.github.io](https://bhgomes.github.io)
+### [`@bhgomes`](https://bhgomes.github.io)
 </div>
