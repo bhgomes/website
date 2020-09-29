@@ -1,8 +1,8 @@
 <div align="center">
 
-# Brandon H Gomes
+# Brandon H. Gomes
 
 _Mathematical Physicist and Type Theorist_
 
-### [@bhgomes](https://bhgomes.github.io)
+### [@bhgomes](https://bhgomes.io)
 </div>
