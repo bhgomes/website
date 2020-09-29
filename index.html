@@ -1,42 +1,52 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta name=viewport content="width=device-width, initial-scale=1">
-  <title>@bhgomes</title>
-  <link rel="styles.css">
-  <style>
-    .outer-div {
-      display: table;
-      position: absolute;
-      height: 100%;
-      width: 100%;
-    }
-    .mid-div {
-      display: table-cell;
-      vertical-align: middle;
-    }
-    .center-div {
-      margin: 0 auto;
-      width: 500px;
-      height: 500px;
-    }
-    .img-container {
-      text-align: center;
-      display: block;
-    }
-  </style>
-</head>
-<body>
-  <div class="outer-div">
-    <div class="mid-div">
-      <div class="center-div">
-        <div class="img-container">
-          <a href="https://github.com/bhgomes"><img src="smaller.jpg" alt="Hi!" style="width:350px; border-radius: 50%; margin:10px;"></a>
-        </div>
-        <h1 align="center">Brandon H Gomes</h1>
+  <head>
+    <meta charset="utf-8">
+    <title>bhgomes</title>
+    <meta name="description" content="Brandon H. Gomes">
+    <meta name="author" content="Brandon H. Gomes">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="font/Fira/family.css">
+    <link rel="icon" type="image/png" href="image/profile.png">
+    <style>
+      .outer-frame {
+        display: table;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 0;
+        margin: 0;
+      }
+      .inner-frame {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+      }
+      .profile {
+        border-radius: 1vw;
+        width: 20%;
+      }
+      .name {
+        font-size: 2.3vw;
+        font-weight: bold;
+        font-family: FiraGo;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="outer-frame">
+      <div class="inner-frame">
+        <a href="https://github.com/bhgomes">
+          <img class="profile" type="image/jpg" src="image/profile.jpg">
+        </a>
+        <p class="name">Brandon H. Gomes</p>
       </div>
     </div>
-  </div>
-</body>
+  </body>
 </html>
