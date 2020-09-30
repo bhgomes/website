@@ -4,5 +4,5 @@
 
 _Mathematical Physicist and Type Theorist_
 
-### [@bhgomes](https://bhgomes.io)
+### [@bhgomes](https://bhgomes.dev)
 </div>
