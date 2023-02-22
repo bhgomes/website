@@ -2,7 +2,7 @@
 
 # Brandon H. Gomes
 
-_Mathematical Physicist and Type Theorist_
+_Type Theory and ZK_
 
 ### [@bhgomes](https://bhgomes.dev)
 </div>
