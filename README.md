@@ -1,8 +1,4 @@
-<div align="center">
+Welcome to My Website!
 
-# Brandon H. Gomes
+You can read the source code above.
 
-_Mathematical Physicist and Type Theorist_
-
-### [@bhgomes](https://bhgomes.dev)
-</div>
